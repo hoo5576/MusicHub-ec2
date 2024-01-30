@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "bory002",
-    "password": "gambo-425800",
+    "password": "5576",
     "database": "musichubdb",
-    "host": "www.kimjunnyoung.com",
+    "host": "43.202.89.219",
     "dialect": "mysql"
   },
   "test": {
